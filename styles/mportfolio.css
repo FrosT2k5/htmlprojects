@@ -1,0 +1,144 @@
+.fright {
+	float: None;
+}
+
+#frostlogo {
+	display: None;
+}
+
+#head {
+	margin-bottom: 25%;
+        padding: 0;
+}
+
+#head h1 {
+	border-style: None;
+	text-align: center;
+	float: None;
+	margin-top: 25px;
+        margin-bottom: 0;
+}
+
+#head_icons {
+	text-align: center;
+        padding: 0.7rem;
+}
+
+#head_icons img {
+        padding-top: 0;
+        width: 8%;
+        display: inline;
+        text-align: center;
+}
+
+#welcome {
+        height: 285px;
+}
+
+#welcome h2 {
+	padding-top: 60px;
+        font-size: 2.5rem;
+}
+
+#about {
+	height: unset;	
+}
+
+#mylogo {
+	float: None;
+	width: 90%;
+        padding-left: 0;
+        text-align: center;
+        margin-left: 5%;
+        border-radius: 13px;
+}
+
+#about h3,p {
+	float: None;
+	width: 90%;
+}
+
+#about h3 {
+	text-align: center;
+	margin: auto;
+	margin-top: 45px;
+}
+
+.visitcounter {
+	text-align: center;
+	float: none;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#about p {
+	margin-left: 5%;
+	font-size: 16px;
+}
+
+#projects {
+	float: None;
+}
+
+#projects a {
+	text-decoration: None;
+}
+
+#project2,#project4,#project6,#project1,#project3,#project5 {
+	float: None;
+	width: 90%;
+	margin-left: 4%;
+	margin-top: 40px;
+}
+
+#contact form {
+	width: 80%;
+	float: None;
+}
+
+#contact input[type=submit] {
+	padding: 17px;
+}
+
+#contacticons {
+	float: None;
+	margin: auto;
+	margin-top: 15px;
+	width: 220px;
+	margin-top: 30px;
+}
+
+.conicons {
+	margin-top: 15px;
+	width: 26px;
+}
+
+#footer h2 {
+	font-size: 2.3rem;
+}
+
+.footicon {
+	padding-right: 10px;
+	margin-bottom: 30px;
+}
+
+.footiconlone {
+	margin-bottom: 30px;
+}
+
+#footer {
+	padding: 15px;
+	padding-bottom: 0px;
+}
+
+#footer p {
+	margin-top: 30px;
+	margin-bottom: 0px;
+	width: 100%;
+	padding-bottom: 5px;
+}
+
+#footericons {
+	margin-bottom: 0px;
+}
